@@ -17,7 +17,7 @@ It gives you Shortest Path at any Cost with and without obstracle on the path.
 ##  Screenshot
 ***
 
-![Front Page](https://github.com/XSarthakJain/PathFinder/tree/assets/Path.png)
+![Front Page](https://github.com/XSarthakJain/PathFinder/blob/assets/Path.png)
 ##  Contributing
 ***
 ###  any kind of contributions are welcome.
