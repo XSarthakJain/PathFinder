@@ -1,6 +1,6 @@
 ﻿#  PathFinder
 ***
-A PathFinder basically de JavaScript ,HTML,CSS
+A PathFinder created through Dijkstra and Bellman ford Algorithm and we used JavaScript for write the code and HTML,CSS for designing.
 
 ##  Why Use it?
 ---
@@ -17,7 +17,7 @@ It gives you Shortest Path at any Cost with and without obstracle on the path.
 ##  Screenshot
 ***
 
-![Front Page](https://github.com/XSarthakJain/PathFinder/assets/Path.png?raw=true)
+![Front Page](https://github.com/XSarthakJain/PathFinder/tree/assets/Path.png)
 ##  Contributing
 ***
 ###  any kind of contributions are welcome.
