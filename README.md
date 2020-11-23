@@ -1,4 +1,4 @@
-﻿#  PathFinder
+﻿#  Path Finder Visualizer
 ***
 A PathFinder created through Dijkstra and Bellman ford Algorithm and we used JavaScript for write the code and HTML,CSS for designing.
 
